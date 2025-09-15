@@ -9,7 +9,7 @@ coding is applied to compress the data before transmission,
 with its impact on system performance being a key focus.
 Simulations were conducted to observe the effect of different
 Eb/N0 values on the performance of each modulation scheme.
-Results show that higher-order PSKs experience higher sensitivity to noise and require more energy to maintain the
+Results show that higher-order PSKs experience higher sensitivity to noise and require more energy to maintain the
 same BER. Additionally, Huffman coding introduces further
 challenges by increasing the complexity of the system, which
 leads to higher BER and SER, particularly at lower Eb/N0
